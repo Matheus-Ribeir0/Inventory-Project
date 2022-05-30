@@ -52,10 +52,9 @@ body {
     padding: 0;
 }
 .drag.over {
-    background-color: rgb(211, 211, 211);
+    background-color: rgb(143, 34, 34);
   }
   .iten {
-      display: ;
     width: 45px;
     height: 45px;
   }
